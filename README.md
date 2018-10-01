@@ -14,3 +14,8 @@ Signature:
 * Seattle
 * Seoul
 * Vancouver, BC
+
+### Alternative List
+1. Los Angeles
+1. New York
+7. Dallas
